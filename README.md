@@ -8,6 +8,6 @@
 3. [Go Get It in Unkonown Enviroment](gogetit.md)
 
 ## Educationリーグ
-1. Speech and Person Recogniton
+1. [Speech and Person Recogniton](spr.md)
 2. GPSR
 3. [Go Get It in Unkonown Enviroment](gogetit.md)
