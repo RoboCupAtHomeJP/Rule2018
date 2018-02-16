@@ -35,6 +35,8 @@
    * **注意:** 検出した物体の名前は、ロボットが物体を掴む前後どちらで発表してもよい。 
    * **繰り返し:** 制限時間に達するか、または5つの食料品を保管するまでこれを繰り返す。
 
+![戸棚](https://github.com/RoboCupAtHomeJP/Rule2018/blob/images/storing_groceries.png "戸棚")
+
 ## Additional Rules and Remarks
 * **物体操作の回避:** この試験中のCONTINUEルールによる物体操作の回避は禁止とする。
 * **セットアップなし:** セットアップ時間は設けない。
