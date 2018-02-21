@@ -103,6 +103,5 @@ TeamName_RunNumber.pdf
 |***Special penalties & bonuses:***	||
 |　Not attending					|-50|
 |　Outstanding performance		|15|
-|　手法の公開						|35|
 |||
 |合計(penaltiesとbonusesを除いて)   |320|
