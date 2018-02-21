@@ -100,6 +100,5 @@ Japan Open 2018 では、実施しません。
 |***Special penaltie & bonuses:***	||
 |　Not attending					|-50|
 |　Outstanding performance		|15|
-|　手法の公開						|35|
 |||
 |合計(penaltiesとbonusを除いて)   |200|
