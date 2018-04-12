@@ -19,8 +19,8 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 
 ## Task
 1. **Traning Phase** 
-    * After the door is opened, the robot and a team member (teacher) enter the arena.  
-    ドアオープンによりロボットと，ロボットへの教示を行うチームメンバー1名（教示者）が入場．
+    * After the door opened, the robot and a team member (teacher) enter the arena.  
+    ドアオープンによりロボットと，ロボットへの教示を行うチームメンバー1名（教示者）が入場．
 
     * The teacher teaches features, names, locations and so on of five unknown objects. The teacher can use any methods for teaching that do not conflict with the rules of RoboCup@Home. Therefore, the following methods are not allowed.  
       教示者はロボカップ＠ホームのルールに反しない範囲で，ロボットに部屋内に配置された5つ未知物体の特徴・名称・物体の位置等を教示する．以下の行為は原則として禁止である．
