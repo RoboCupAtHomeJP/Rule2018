@@ -1,7 +1,7 @@
 
 
 # Go Get It in Unknown Envrionment
-In this task, it is assumed that a robot acquires the knowledge about domestic environments through interaction with its owner when the robot are  newly introduced. In particular, it is focused on objects name and their locations and we evaluate ability of acquisition and generalization about those knowledge through interaction.   
+In this task, it is assumed that a robot acquires the knowledge about domestic environments through interaction with its owner when the robot is newly introduced. In particular, it is focused on object's names and their locations and we evaluate ability of acquisition and generalization about those knowledge through HRI(human-robot interaction).   
 このタスクでは，新たなロボットが家庭に導入された際に，人がその家庭の様々な情報をロボットへ教示することで，ロボットが知識を獲得することを想定している．特に家具や物体の配置・呼び方などを対象として，人とのインタラクションを通してロボットが新たな知識を獲得すること，またその知識を実環境の中で汎化して利用することを目的として，これらの性能を評価する．
 
 ## Focus
@@ -34,7 +34,7 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 3. **Test Phase**
     Following procedure is repeated five times: 
     
-    * The referee generates a sentence "Bring me \*. " to have the robot bring a object. The generated sentence is a sentence thet can identify one object in the environment using object categories, features, location and so on. Words used in the sentence is not opened. Examples of the sentences are as follows:  
+    * The referee generates a sentence "Bring me \*. " to have the robot bring an object. The generated sentence includes words (e.g. object's categories, visual features, object's locations) to identify the object in the environment. Words used in the sentence is not opened. Examples of the sentences are as follows:  
     審判は，特定の物を持ってくるような指示文「Bring me \*. 」を生成する．物体をそのカテゴリ，見た目，位置などで特定できるような指示文となるが，どのような単語が使われるかは公開されない．以下が指示文の一例である．
 
 		- "Bring me a juice near the standing person. "
@@ -43,7 +43,7 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
       The time taken to generate the sentence is not included in the time limit.  
       文生成をしている時間は制限時間には含まれない．
  
-	* One team member (instructor) instructs the robot using the sentence "Bring me \*. "  
+	* A team member (instructor) instructs the robot using the sentence "Bring me \*. "  
 	  指定場所でチームメンバー（指示者）がロボットに特定の物を持ってくるように「Bring me \*. 」と音声にて指示をする．
 
 	* If the robot cannot recognize it correctly or the instructor makes speech error, the instructor can instruct the robot three times in total. The instructor also can skip the instruction and, in this case, this instruction is considered as failure.   
@@ -68,11 +68,11 @@ In this task, it is assumed that a robot acquires the knowledge about domestic e
 * **Object locations:** There are objects that are not used in the environment. After the training phase, the objects are randomly moved about 10 cm.   
 物体は学習対象の物体以外の物体も置かれている．Traning Phase終了後，物体を10cm程度移動させる．
 
-* **Furniture location:** The furniture locations are changed about 30 minutes before the task. After the change, the team members cannot enter the room.  
+* **Furniture location:** The furniture's locations are changed about 30 minutes before the task. After the change, the team members cannot enter the room.  
 家具の配置はタスク開始30分前に変更される．変更後，部屋へ入ることはできない． さらに，チームごとに家具の配置が変更となることがある．
 
 * **Publish the method:**  If the team publish the method with used in this task a paper or web page, the additional points are given. The team send url of the paper or the web page to the exective comittee via e-mail the previous day. The EC review it and judge if the additional points can be given.  
- 本タスクで使用した手法・プログラムを論文・Webで公表した場合，加点される．論文・Webページは，タスク前日のチームリーダーズミーティング後に，実行委員へメールにて送付すること．実行員で審議し，公表内容によっては加点とならない場合もある．
+ 本タスクで使用した手法・プログラムを論文・Webで公表した場合，加点される．論文・Webページは，タスク前日のチームリーダーズミーティング後に，実行委員へメールにて送付すること．実行委員で審議し，公表内容によっては加点とならない場合もある．
 
 
 ## Score Sheet
