@@ -4,12 +4,12 @@
 
 - Since there is no WiFi network in the competition venue, each team can use WiFi prepared by themselves.
 - 会場にはWiFiネットワークはないため，利用する場合は各チームが独自に準備をしたWiFiを利用することができる．
-- To avoid crosstalk, only one wireless router shall be used per team.
-- 混線を避けるため無線ルータは1チーム1台限りとする．
-- Mobile wifi, cradle, small LAN hub can be installed on robot and used.
-- モバイルwifi，クレードル，小型のLANハブをロボットに設置して使用することも許可する．
-- [DSPL] If using the cradle, place it on the shoulder of the HSR and wire the cable in consideration of safety.
-- [DSPL]クレードルを使用する場合は，HSRの肩にのせ，LANケーブル等は目立たないように配線する．
+  - To avoid crosstalk, only one wireless router shall be used per team.
+  - 混線を避けるため無線ルータは1チーム1台限りとする．
+  - Mobile wifi, cradle, small LAN hub can be installed on robot and used.
+  - モバイルwifi，クレードル，小型のLANハブをロボットに設置して使用することも許可する．
+  - [DSPL] If using the cradle, place it on the shoulder of the HSR and wire the cable in consideration of safety.
+  - [DSPL]クレードルを使用する場合は，HSRの肩にのせ，LANケーブル等は目立たないように配線する．
 - Dialogue with the robot is done in English.
 - ロボットとの対話は英語で行う．
 - [DSPL] The Official Standard Laptop listed in the 2018 rule book can be used.
