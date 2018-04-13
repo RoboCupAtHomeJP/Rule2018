@@ -4,7 +4,7 @@
 
 - Since there is no WiFi network in the competition venue, each team can use WiFi prepared by themselves.
 - 会場にはWiFiネットワークはないため，利用する場合は各チームが独自に準備をしたWiFiを利用することができる．
-  - To avoid crosstalk, only one wireless router shall be used per team.
+  - To avoid crosstalk, only one wireless router should be used per team.
   - 混線を避けるため無線ルータは1チーム1台限りとする．
   - Mobile wifi, cradle, small LAN hub can be installed on robot and used.
   - モバイルwifi，クレードル，小型のLANハブをロボットに設置して使用することも許可する．
@@ -28,5 +28,6 @@
 2. [GPSR](gpsr.md)
 3. [Go Get It in Unkonown Enviroment](gogetit.md)
 
-* Education league will hold Workshop by Math Works in addition to the above tasks.
+*Education league will hold Workshop by Math Works in addition to the above tasks.
+
 ＊Educationでは，上記タスクに加えてMath WorksによるWorkshopを開催します．
