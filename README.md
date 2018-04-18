@@ -11,7 +11,7 @@
 - [DSPL] Official microphoneはないため，各チームが独自で準備したBluetoothマイクを利用することができる．使用する場合は，ロボットには設置せず，手持ちで利用する．
 
 
-## Open Platformリーグ，Standard Platformリーグ
+## Open Platformリーグ， Demestic Standard Platformリーグ
 1. [Storing Groceries](sg.md)
 2. [GPSR](gpsr.md)
 3. [Go Get It in Unkonown Enviroment](gogetit.md)
