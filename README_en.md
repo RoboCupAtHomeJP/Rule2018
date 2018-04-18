@@ -10,7 +10,7 @@
 - [DSPL] The Official Standard Laptop listed in the 2018 rule book can be used.
 - [DSPL] Since there is no Official microphone, each team can use the Bluetooth microphone prepared by themselves. Bluetooth microphone is not installed in the robot, it is used handheld.
 
-## Open Platform League，Standard Platform League
+## Open Platform League， Demestic Standard Platform League
 1. [Storing Groceries](sg.md) (in Japanese)
 2. [GPSR](gpsr.md) (in Japanese)
 3. [Go Get It in Unkonown Enviroment](gogetit.md) (in Japanese)
