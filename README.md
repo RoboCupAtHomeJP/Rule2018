@@ -8,7 +8,8 @@
   - [DSPL]クレードルを使用する場合は，HSRの肩にのせ，LANケーブル等は目立たないように配線する．
 - ロボットとの対話は英語で行う．
 - [DSPL] 2018年のルールブックに記載されているOfficial Standard Laptopを使用することができる．
-- [DSPL] Official microphoneはないため，各チームが独自で準備したBluetoothマイクを利用することができる．使用する場合は，ロボットには設置せず，手持ちで利用する．
+  - Official Standard Laptopの有線LANドライバに問題がある場合は，USB-LANアダプタを使用することができる．
+- [DSPL] Official microphoneはないため，各チームが独自で準備した無線マイクを利用することができる．使用する場合は，ロボットには設置せず，手持ちで利用する．
 
 
 ## Open Platformリーグ， Demestic Standard Platformリーグ
