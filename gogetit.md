@@ -25,8 +25,6 @@
 
 		- 「Bring me a juice near the standing person. 」
 		- 「Bring me a red object in front of the TV. 」
-
-      文生成をしている時間は制限時間には含まれない．
  
 	* 指定場所でチームメンバー（指示者）がロボットに特定の物を持ってくるように「Bring me \*. 」と音声にて指示をする．
 
