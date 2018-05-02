@@ -104,4 +104,4 @@ TeamName_RunNumber.pdf
 |　Not attending					|-50|
 |　Outstanding performance		|15|
 |||
-|合計(penaltiesとbonusesを除いて)   |320|
+|最大値(penaltiesとbonusesを除いて)   |270|
